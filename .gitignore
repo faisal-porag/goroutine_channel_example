@@ -1,0 +1,14 @@
+.env
+/.idea
+/bin
+main
+local.Dockerfile
+
+
+kafka_payload_log.txt
+.kafka_payload_log.txt
+.vscode
+./unit_test
+/unit_test
+
+
